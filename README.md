@@ -6,23 +6,24 @@
 
 ##  Technologies
 
+![C](https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-4479A1?logo=matlab&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-Aussi : Pandas, NumPy, SciPy, SQLAlchemy, MATLAB, Arduino, LoRaWAN.
+Aussi : Pandas, NumPy, SciPy, SQLAlchemy, Arduino, LoRaWAN.
 
 ##  Projets importants
 
 ** [Système de recommandation musicale](LIEN_REPO_MUSIQUE)**
 Application full-stack (React/Vite + Flask/SQLAlchemy) basée sur du Machine Learning. Fusion de deux jeux de données (1,2 M d'entrées), calculs matriciels optimisés, réponses sous la seconde.
 
-** [Semelle connectée](LIEN_REPO_SEMELLE)**
+** [Semelle connectée](https://github.com/lpeyr/p2i.git)**
 Système embarqué (capteurs IMU + GPS, transmission LoRaWAN) avec détection d'anomalies de marche par Isolation Forest. Projet d'équipe de 6, réalisé avec un podologue.
 
 ## Me contacter
