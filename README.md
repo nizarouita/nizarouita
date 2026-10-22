@@ -1,6 +1,6 @@
 # Salut, moi c'est Nizar 👋
 
-Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par la **cybersécurité** et la **l'IA**.
+Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par la **cybersécurité** et **l'IA**.
 
 À la recherche d'un **stage de 9 à 14 semaines à partir du 10 juin 2027**.
 
@@ -21,9 +21,11 @@ Aussi : Pandas, NumPy, SciPy, SQLAlchemy, Arduino, LoRaWAN.
 ##  Projets importants
 
 [Système de recommandation musicale](https://github.com/nizarouita/SpotifyxTinder.git)
+
 Application full-stack (React/Vite + Flask/SQLAlchemy) basée sur du Machine Learning. Fusion de deux jeux de données (1,2 M d'entrées), calculs matriciels optimisés, réponses sous la seconde.
 
 [Semelle connectée](https://github.com/lpeyr/p2i.git)
+
 Système embarqué (capteurs IMU + GPS, transmission LoRaWAN) avec détection d'anomalies de marche par Isolation Forest. Projet d'équipe de 6, réalisé avec un podologue.
 
 ## Me contacter
