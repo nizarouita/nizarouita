@@ -1,6 +1,6 @@
 # Salut, moi c'est Nizar 👋
 
-Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par la **cybersécurité** et **l'IA**.
+Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par l'**IA** et le **développement logiciel**.
 
 À la recherche d'un **stage de 9 à 14 semaines à partir du 10 juin 2027**.
 
