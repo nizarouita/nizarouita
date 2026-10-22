@@ -20,10 +20,10 @@ Aussi : Pandas, NumPy, SciPy, SQLAlchemy, Arduino, LoRaWAN.
 
 ##  Projets importants
 
-** [Système de recommandation musicale](https://github.com/nizarouita/SpotifyxTinder.git)**
+[Système de recommandation musicale](https://github.com/nizarouita/SpotifyxTinder.git)
 Application full-stack (React/Vite + Flask/SQLAlchemy) basée sur du Machine Learning. Fusion de deux jeux de données (1,2 M d'entrées), calculs matriciels optimisés, réponses sous la seconde.
 
-** [Semelle connectée](https://github.com/lpeyr/p2i.git)**
+[Semelle connectée](https://github.com/lpeyr/p2i.git)
 Système embarqué (capteurs IMU + GPS, transmission LoRaWAN) avec détection d'anomalies de marche par Isolation Forest. Projet d'équipe de 6, réalisé avec un podologue.
 
 ## Me contacter
