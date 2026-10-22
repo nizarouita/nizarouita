@@ -1,6 +1,6 @@
 # Salut, moi c'est Nizar 👋
 
-Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par la **cybersécurité** et la **sécurité de l'IA**.
+Étudiant ingénieur en informatique à l'**INSA Lyon** (promo 2029), intéressé par la **cybersécurité** et la **l'IA**.
 
 À la recherche d'un **stage de 9 à 14 semaines à partir du 10 juin 2027**.
 
@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-4479A1?logo=matlab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -20,7 +20,7 @@ Aussi : Pandas, NumPy, SciPy, SQLAlchemy, Arduino, LoRaWAN.
 
 ##  Projets importants
 
-** [Système de recommandation musicale](LIEN_REPO_MUSIQUE)**
+** [Système de recommandation musicale](https://github.com/nizarouita/SpotifyxTinder.git)**
 Application full-stack (React/Vite + Flask/SQLAlchemy) basée sur du Machine Learning. Fusion de deux jeux de données (1,2 M d'entrées), calculs matriciels optimisés, réponses sous la seconde.
 
 ** [Semelle connectée](https://github.com/lpeyr/p2i.git)**
